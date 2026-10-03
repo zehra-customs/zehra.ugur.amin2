@@ -64,4 +64,4 @@ else:
   df_combined = df_new
 
 df_combined.to_excel(excel_file, index=False)
-print("Статистика по всем постам успешно сохранена в Excel!")
+print("Статистика по всем постам успешно сохранена в Excel!") # trigger 
